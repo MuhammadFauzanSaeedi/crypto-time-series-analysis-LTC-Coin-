@@ -27,7 +27,7 @@ This project applies time series regression techniques to forecast the daily clo
 
 ## 📁 Files
 
-- `FDA_Assignment_Litecoin.ipynb` – Full notebook with data prep, EDA, modeling, and results
+- `FDA Assignment.ipynb` – Full notebook with data prep, EDA, modeling, and results
 
 ## 📌 Author
 
