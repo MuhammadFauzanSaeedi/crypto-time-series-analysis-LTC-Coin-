@@ -17,7 +17,7 @@ This project applies time series regression techniques to forecast the daily clo
 ## 📊 Key Result
 
 - **Best model**: LassoLarsIC (tuned)  
-- **R² (Test set)**: 0.9897  
+- **R² (Test set)**: 0.998  
 - **Application**: Real-time LTC price prediction and crypto trading support
 
 ## 🚀 Tools & Libraries
